@@ -8,6 +8,7 @@
 
 {Describe the design and implementation of the product. Use UML diagrams and short code snippets where applicable.}
 
+---
 ### FinancialList Component
 
 #### Overview
@@ -42,6 +43,7 @@ allowing for separation of handling command keywords and executing commands.
 
 The diagram below shows the inheritance of the `Command` class.
 
+----
 
 ### Exceptions and Logging
 
